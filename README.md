@@ -13,6 +13,7 @@ When the user goes to tweets.html, they will get a simple page showing all the
 tweets in the database.
 
 Steps to take:
+
 1. create a table on the cloud instance in the twitter database
    put it in a schema that has your name (eg. mahmoud.tweets)
 2. complete a server that you can `$.get('/tweets')` and `$.post('/create_tweet')`.
