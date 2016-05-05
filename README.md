@@ -1,4 +1,4 @@
-# node-get-post
+# solid-parakeet
 
 ##nodejs DB2 challenge
 We're gonna make a tiny version of twitter, with 2 pages:
